@@ -6,7 +6,7 @@ Easily create spotify account from terminal
 - Create 100 account just for 3 seconds
 
 ----
-### Install
+## Install
 Clone this project
 ```bash
 > go get https://github.com/Pallinder/go-randomdata
@@ -19,5 +19,5 @@ Usage
 > go run main.go
 ```
 
-## Thanks to
+### Thanks to
 1. [`go-randomdata`](https://github.com/Pallinder/go-randomdata)
