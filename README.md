@@ -9,6 +9,7 @@ Easily create spotify account from terminal
 ### Install
 Clone this project
 ```bash
+> go get https://github.com/Pallinder/go-randomdata
 > git clone https://github.com/verssache/Spotify-Register.git
 > cd Spotify-Register
 ```
@@ -17,3 +18,6 @@ Usage
 ```bash
 > go run main.go
 ```
+
+## Thanks to
+1. [`go-randomdata`](https://github.com/Pallinder/go-randomdata)
